@@ -1,0 +1,20 @@
+[
+    {
+        "word": "dva",
+        "letters": 3,
+        "vowels": 1,
+        "consonants": 2
+    },
+    {
+        "word": "banana",
+        "letters": 6,
+        "vowels": 3,
+        "consonants": 3
+    },
+    {
+        "word": "Suma",
+        "letters": 4,
+        "vowels": 2,
+        "consonants": 2
+    }
+]
